@@ -1,4 +1,4 @@
-// 문자열
+// 문자열 test
 const str: string = 'hello';
 
 // 숫자
